@@ -1,13 +1,86 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.App{
+    height: 100vh;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    max-width: 600px;
+/*     border: red solid 1px; */
+  background: whitesmoke;
+  border-radius: 10px;
+}
+
+.quote-box {
+    height: 80%;
+/*     border: blue solid 1px; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+  padding-bottom: 10px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: x-large;
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.quote-box p {
+    margin-top: 20px;
+}
+
+.button-box {
+    height: 20%;
+/*     border: orange solid 1px; */
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+  padding-bottom: 20px
+}
+
+.button-box button {
+    align-self: center;
+    font-size: large;
+    border: none;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    padding: 10px;
+    height: 50px;
+  border-radius: 10px;
+  background: none;
+  border: white solid 1px;
+  color: white
+}
+
+.button-box button:hover {
+    background-color: rgb(209, 208, 208);
+    padding: 12px;
+}
+
+a{
+  border: white solid 1px;
+  align-self: center;
+  font-size: 40px;
+  height: 50px;
+  width: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-decoration: none;
+  border-radius: 10px;
 }
