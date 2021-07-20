@@ -14,4 +14,4 @@ Technologies:
 2. useState
 3. useEffect
 
-App may be viewed github pages: https://nicholas-riegel.github.io/random_quote_generator_react/
+App may be viewed on github pages: https://nicholas-riegel.github.io/random_quote_generator_react/
