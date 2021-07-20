@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/random_quote_generator/static/css/main.e252637e.chunk.css",
-    "main.js": "/random_quote_generator/static/js/main.3da0e4b4.chunk.js",
-    "main.js.map": "/random_quote_generator/static/js/main.3da0e4b4.chunk.js.map",
-    "runtime-main.js": "/random_quote_generator/static/js/runtime-main.ec2d79c3.js",
-    "runtime-main.js.map": "/random_quote_generator/static/js/runtime-main.ec2d79c3.js.map",
-    "static/js/2.0ba31649.chunk.js": "/random_quote_generator/static/js/2.0ba31649.chunk.js",
-    "static/js/2.0ba31649.chunk.js.map": "/random_quote_generator/static/js/2.0ba31649.chunk.js.map",
-    "index.html": "/random_quote_generator/index.html",
-    "static/css/main.e252637e.chunk.css.map": "/random_quote_generator/static/css/main.e252637e.chunk.css.map",
-    "static/js/2.0ba31649.chunk.js.LICENSE.txt": "/random_quote_generator/static/js/2.0ba31649.chunk.js.LICENSE.txt"
+    "main.css": "/random_quote_generator_react/static/css/main.e252637e.chunk.css",
+    "main.js": "/random_quote_generator_react/static/js/main.3da0e4b4.chunk.js",
+    "main.js.map": "/random_quote_generator_react/static/js/main.3da0e4b4.chunk.js.map",
+    "runtime-main.js": "/random_quote_generator_react/static/js/runtime-main.d3351a28.js",
+    "runtime-main.js.map": "/random_quote_generator_react/static/js/runtime-main.d3351a28.js.map",
+    "static/js/2.0ba31649.chunk.js": "/random_quote_generator_react/static/js/2.0ba31649.chunk.js",
+    "static/js/2.0ba31649.chunk.js.map": "/random_quote_generator_react/static/js/2.0ba31649.chunk.js.map",
+    "index.html": "/random_quote_generator_react/index.html",
+    "static/css/main.e252637e.chunk.css.map": "/random_quote_generator_react/static/css/main.e252637e.chunk.css.map",
+    "static/js/2.0ba31649.chunk.js.LICENSE.txt": "/random_quote_generator_react/static/js/2.0ba31649.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec2d79c3.js",
+    "static/js/runtime-main.d3351a28.js",
     "static/js/2.0ba31649.chunk.js",
     "static/css/main.e252637e.chunk.css",
     "static/js/main.3da0e4b4.chunk.js"
